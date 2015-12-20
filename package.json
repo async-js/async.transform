@@ -10,7 +10,7 @@
   "version": "0.4.3",
   "license": "MIT",
   "dependencies": {
-    "async.eachof": "0.4.3",
+    "async.eachof": "0.5.0",
     "async.util.isarray": "0.4.3"
   },
   "keywords": [
